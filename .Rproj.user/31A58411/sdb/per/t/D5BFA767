@@ -1,0 +1,17 @@
+{
+    "contents" : "#simplecalculations\n3+4\n3*4\n3-4\nsqrt(25)\nx <- 5\ny <- x^2\nmyvariable <- c(72, 28, -9, 12, 11)\nmyvariable*3\nsqrt(myvariable)\nmyvariable2 <- myvariable*3\nmean(myvariable)\nlength(myvariable)\nsum(myvariable)\nz <- c(2,4,6,8,10)\n",
+    "created" : 1415787899252.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3833667952",
+    "id" : "D5BFA767",
+    "lastKnownWriteTime" : 1415789348,
+    "path" : "C:/Users/Xavi M/Desktop/test-repo/data analysis fundamentals course.R",
+    "project_path" : "data analysis fundamentals course.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,16 @@
+{
+    "contents" : "##### Succesful testing on markdowns\n\n\n#Markdown testing heading big\n* test1\n* test2\n* test3\n\n##markdown testing heading medium\n\n* test1\n* test2\n* test3\n\n###markdown testing heading small\n\n* test1\n* test2\n* test3\n\n####markdown testing plain text\n\n* test1\n* test2\n* test3\n",
+    "created" : 1415721550298.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3868397746",
+    "id" : "399ACAC5",
+    "lastKnownWriteTime" : 1415703401,
+    "path" : "C:/Users/Xavi M/Desktop/test-repo/markdowntest.md",
+    "project_path" : "markdowntest.md",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}

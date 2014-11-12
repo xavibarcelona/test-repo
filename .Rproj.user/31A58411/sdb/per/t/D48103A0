@@ -1,0 +1,16 @@
+{
+    "contents" : "test-repo\n=========\n\ntest123\n",
+    "created" : 1415721541212.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1888192862",
+    "id" : "D48103A0",
+    "lastKnownWriteTime" : 1415698692,
+    "path" : "C:/Users/Xavi M/Desktop/test-repo/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}
