@@ -1,0 +1,17 @@
+{
+    "contents" : "#simplecalculations\n3+4\n3*4\n3-4\nsqrt(25)\nx <- 5\ny <- x^2\nmyvariable <- c(72, 28, -9, 12, 11)\nmyvariable*3\nsqrt(myvariable)\nmyvariable2 <- myvariable*3\nmean(myvariable)\nlength(myvariable)\nsum(myvariable)\nz <- c(2,4,6,8,10)\nmyvariable[2]\nmyvariable > 0\nm <- myvariable\nm[m>0]\nm[m!=12]\nm!=12\nmean(biketest$car)\ntable(biketest$gender)\nbiketest[1,3]\nbiketest[1,]\nbiketest[,3]\ntable(biketest$gender)\nmean(biketest$gender)\nmean(biketest[,3])\nmean(biketest$car)\nbiketest$gender == \"male\"\nbiketest == \"male\"\nbiketest == \"foot\"\nfemales <- biketest[biketest$gender == \"female\",]\nfemalesfoot <- biketest$foot[biketest$gender == \"female\"]\ntable(biketest$gender)\n",
+    "created" : 1415787899252.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3299647254",
+    "id" : "D5BFA767",
+    "lastKnownWriteTime" : 1415789348,
+    "path" : "C:/Users/Xavi M/Desktop/test-repo/data analysis fundamentals course.R",
+    "project_path" : "data analysis fundamentals course.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

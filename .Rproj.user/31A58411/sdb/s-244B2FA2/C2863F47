@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1415965866919.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C2863F47",
+    "lastKnownWriteTime" : 7741240723082584096,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "biketest",
+        "contentUrl" : "content?title=biketest&file=ffdd003a5b414a7d98c273471f6141be.htm",
+        "displayedObservations" : 2,
+        "displayedVariables" : 5,
+        "totalObservations" : 2,
+        "variables" : 5
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
